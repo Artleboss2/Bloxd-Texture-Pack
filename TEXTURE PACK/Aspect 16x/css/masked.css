@@ -1,0 +1,55 @@
+.CreativeItemSlotsSearch{
+  background-color:#b682b9;
+}
+
+.HotBarContainer .HotBar .HotBarGameItemsContainer .InvenItem {
+  border: .25rem solid #ad59a2 !important;
+  height: calc(3.5rem - 1px);
+  outline: none!important;
+  width: calc(3.5rem - 1px);
+  background-color:#b682b9!important;
+  border-radius:6px!important;
+}
+
+.InventoryFiller{
+  background-color:transparent;
+}
+
+.Inventory{
+  background-color:transparent;
+  box-shadow:none!important;
+}
+
+.InventoryWrapper .Inventory .InvenBody .InvenLeftSide {
+  background-color:#ad59a2!important;
+  border: .25rem solid #b682b9 !important;
+  outline:none;
+  border-radius:10px!important;
+}
+
+.InventoryWrapper .Inventory .InvenBody .InvenBodyRight {
+  background-color:#ad59a2!important;
+  border: .25rem solid #b682b9 !important;
+  outline:none;
+  border-radius:10px!important;
+}
+
+.BottomScreenStatBarList .BottomScreenStatBarWrapper .BottomScreenStatBarBackground {
+  border-radius: 0;
+  height: 2.5rem;
+  overflow: hidden;
+  width: 18rem!important;
+  border-radius:6px!important;
+}
+
+.CreativeItemSlotsSearch{
+  background-color: #ad59a2!important;
+  border: .25rem solid #b682b9 !important;
+  border-radius:6px!important;
+}
+
+.Selected {
+  background-color:#814579!important;
+  border: .25rem solid #9a6f9c !important;
+  border-radius:6px!important;
+} 

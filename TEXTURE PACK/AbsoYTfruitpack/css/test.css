@@ -1,0 +1,24 @@
+/* Hotbar Changes */
+.item {
+    background-color: rgb(57, 70, 70); /* Background Colour of Hotbar */
+    border: .25rem solid rgb(92, 94, 93); /* You can edit the thickness of the border, alongside the border type & colour */
+}
+
+
+.SelectedItem{
+     background-color: rgb(57, 70, 70);
+    border: .25rem solid rgb(205, 224, 196);
+}
+
+
+
+@import url('https://fonts.cdnfonts.com/css/minecraftia');
+
+.WholeAppWrapper {
+    font-family: "minecraftia", sans-serif;
+}
+
+
+.HomeBackground{
+    background-image: url('https://i.imgur.com/O0i5ljO.png') !important;
+}

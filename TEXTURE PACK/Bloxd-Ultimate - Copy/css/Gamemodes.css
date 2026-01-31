@@ -1,0 +1,7 @@
+.ThumbnailBadgesContainer .ThumbnailBadgeContainer .ThumbnailBadgeMain {
+    background: #00000000 !important;
+    width: 0rem !important;
+    font-size: 0 !important;
+    color: #00000000 !important;
+    box-shadow: 0 0 #00000000 !important;
+}

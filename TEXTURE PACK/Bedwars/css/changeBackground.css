@@ -1,0 +1,58 @@
+.HomePageInner {
+  background-image: url('https://iili.io/FhjP8kg.jpg') !important;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+  background-position: center !important;
+}
+
+.HomePageBackgroundContainer {
+  filter: opacity(0) !important;
+}
+
+.LogoLoader:not(.LogoLoaderLoading) .LogoLoaderInner {
+  border-radius: 15rem !important;
+}
+
+.LogoLoader .LogoLoaderInner .row .cell {
+    aspect-ratio: 0/0 !important;
+    width: 0% !important;
+    filter: opacity(0) !important;
+    background-size: contain !important;
+    background-repeat: no-repeat !important;
+}
+
+.LoadingOverlay .LoadingOverlayDividerContainer .LoadingOverlayDivider {
+  background-color: #00000000 !important;
+  height: 0% !important;
+  margin: 0rem !important;
+  width: 0rem !important;
+}
+
+.LogoLoader.LogoLoaderLoading .LogoLoaderOuter {
+    background-image: linear-gradient(315deg, #11cfffe7 0%, #00000070 74%) !important;
+    border: 0px solid #00000000 !important;
+    border-radius: 15rem !important;
+}
+
+.LogoLoader:not(.LogoLoaderLoading) .LogoLoaderOuter {
+    border-radius: 15rem !important;
+}
+
+.LoadingOverlay .LoadingOverlayLeft {
+  width: 0rem !important;
+}
+
+
+.LogoLoaderInner {
+  border-radius: 10rem !important;
+  box-sizing: border-box;
+  position: absolute;
+  background-size: contain !important;
+  background-repeat: no-repeat !important;
+  background-image: url('https://iili.io/KQFEpUl.jpg') !important;
+}
+
+
+.CenteredDiv .SelectGameGridBackgroundContainer {
+  filter: opacity(0) !important;
+}

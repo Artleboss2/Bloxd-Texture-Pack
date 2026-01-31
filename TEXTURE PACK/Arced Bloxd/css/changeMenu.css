@@ -1,0 +1,64 @@
+.LogoLoader:not(.LogoLoaderLoading) .LogoLoaderInner {
+  background-image: url('https://iili.io/2p6uHtp.png') !important;
+  background-size: contain !important;
+  background-repeat: no-repeat !important;
+}
+
+.LogoLoader:not(.LogoLoaderLoading) .LogoLoaderOuter {
+  border-radius: 10rem !important;
+  background-image: linear-gradient(315deg, #ff005857 0%, #21a4fe4a 74%) !important;
+  border: 0px solid #29f3ff !important;
+}
+
+.HomeBackground {
+  background-image: url('https://iili.io/2sKNmSp.png') !important;
+}
+
+.GameCardContainer .AvailableGame .AvailableGameTextWrapper .AvailableGameTextWrapperBackground {
+  background-color: #1c1e24 !important;
+}
+
+.SocialBarContainer .SocialBarOuter .SocialBar .SocialBarInner .SocialBarFooter {
+  background-color: rgb(9 11 20 / 44%) !important;
+}
+
+.SocialBarContainer .SocialBarOuter .SocialBar .SocialBarInner .SocialBarBody {
+  background-color: rgb(9 11 20 / 44%) !important;
+}
+
+.CenteredDiv .CenteredDivUpper .HomePagePartyBar {
+  background-color: #10152673 !important;
+}
+
+.CenteredDiv .CenteredDivUpper .ActionShortcutBar {
+  background-color: #10152673 !important;
+}
+
+.Header .HeaderLeftContainer .PlayerNamePreview {
+  background-color: #10152673 !important;
+}
+
+.CenteredDiv .CenteredDivLower .CenteredDivLowerLeft .HomeScreenBottomLeft .BottomRightInfoBox .BottomRightInfoBoxBackground {
+  background-color: #10152673 !important;
+}
+
+.Header .HeaderRightContainer .HeaderRight {
+  background-color: #10152673 !important;
+}
+
+.TextInput {
+  background-image: linear-gradient(315deg, #ff005857 0%, #21a4fe4a 74%) !important;
+  border: 1px solid #00d8ff !important;
+}
+
+.JoinPartyAction .JoinPartyHashtag {
+  border: 1px solid #00d8ff !important;
+}
+
+.CreatePartyButton, .JoinPartyAction .JoinPartyButton {
+  border: 1px solid #00d8ff !important;
+}
+
+.CreatePartyButton {
+  border: 1px solid #00d8ff !important;
+}

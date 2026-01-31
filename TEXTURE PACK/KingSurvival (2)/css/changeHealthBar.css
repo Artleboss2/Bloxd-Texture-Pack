@@ -1,0 +1,29 @@
+.BottomScreenStatBarBackground {
+  box-shadow: 0 0 20px rgb(0 173 255), inset 0 0 5px rgb(0 137 255 / 90%) !important;
+  background-color: #04092a !important;
+  border: 1.2px solid #154059 !important;
+}
+
+.BottomScreenStatBarWrapper {
+  left: 11.8 !important;
+}
+
+.HealthBar {
+    background-color: #00000000 !important;
+    background-image: linear-gradient(10deg, #156989 0%, #3cc9ff 74%) !important;
+    box-shadow: inset 0 .4rem 0 0 #ffffff10, inset 0 -.4rem 0 0 #00000017 !important;
+}
+
+/* Aura */
+
+.AuraBarWrapper .AuraBar {
+  top: 3.5px !important;
+  border-radius: .25rem !important;
+  height: 65% !important;
+  background-color: #212121ba !important;
+  border: 2px solid #0074b8bd !important;
+}
+
+.AuraBarWrapper .AuraBar .AuraBarBackground {
+  background-image: linear-gradient(60deg, #115888, #31c5ff 125%) !important;
+}

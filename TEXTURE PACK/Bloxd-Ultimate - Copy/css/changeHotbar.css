@@ -1,0 +1,30 @@
+.InvenItem {
+    background-color: #00000000 !important;
+    border: 0rem #00000000 !important;
+    border-radius: 0rem !important;
+    outline: 0px #00000000 !important;
+    background-image: url('https://iili.io/2irxiUx.png') !important;
+    background-size: contain !important;
+    background-repeat: no-repeat !important;
+}
+
+.HotBarItem {
+    background-color: #00000000 !important;
+    border: 0rem #00000000 !important;
+    border-radius: 0rem !important;
+    outline: 0px #00000000 !important;
+    background-image: url('https://iili.io/2irxiUx.png') !important;
+    background-size: contain !important;
+    background-repeat: no-repeat !important;
+}
+
+.InvenItem.Selected {
+    background-image: url('https://iili.io/2irOU8J.png') !important;
+    background-size: contain !important;
+    background-repeat: no-repeat !important;
+} 
+
+.BlockItemWrapper, .ItemWrapper {
+    height: 85% !important;
+    width: 85% !important;
+}

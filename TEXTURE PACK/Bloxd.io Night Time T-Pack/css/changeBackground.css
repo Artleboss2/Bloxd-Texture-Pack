@@ -1,0 +1,5 @@
+/* Edit the Background Image. Get the Image Address by right clicking the image and clicking 'Copy Image Address' */
+
+.HomeBackground{
+  background-image: url('http://www.pwrdown.com/wp-content/uploads/2019/11/Default-1024x576.jpg') !important;
+}

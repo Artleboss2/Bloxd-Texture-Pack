@@ -1,0 +1,28 @@
+.HotBar .HotBarGameItemsContainer {
+  background-image: url('https://iili.io/3gmJyEg.png') !important;
+  display: flex;
+  background-size: contain !important;
+  background-repeat: no-repeat !important;
+  gap: 0rem !important
+}
+
+.HotBar .HotBarItem {
+    align-items: center;
+    background-color: #00000000 !important;
+    border: 0rem #00000000 !important;
+    border-radius: 0rem !important;
+    outline: 0px #00000000 !important;
+    color: #fff;
+    cursor: pointer;
+    display: flex;
+    background-image: url('https://iili.io/37ODcGI.png') !important;
+    background-size: contain !important;
+    background-repeat: no-repeat !important;
+}
+
+.HotBar .HotBarItem.SelectedItem {
+    background-image: url('https://iili.io/37ODJ2e.png') !important;
+    background-size: contain !important;
+    background-repeat: no-repeat !important;
+    scale: 1.05 !important;
+} 

@@ -1,0 +1,19 @@
+/* Hotbar Changes */
+
+.InvenItem {
+  background-color: #04bac715 !important;
+  border: 3px solid #24bde4ab !important;
+  outline: 0px solid #00000000 !important;
+  border-radius: .5rem !important;
+}
+
+/* Same thing but with Selected Items */
+
+.HotBar .HotBarItem.Selected {
+   background-color: #38d7ff33 !important;
+   border: 3px solid #36e1ff !important;
+}
+
+.HotBar .HotBarItem.ButtonHotBarItem {
+  opacity: 0 !important;
+}

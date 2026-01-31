@@ -1,0 +1,12 @@
+/* Hotbar Changes */
+.HotBar .HotBarItem {
+  background-color: #191a2161 !important; /* Background Colour of Hotbar */
+  border: .25rem solid #171b1c !important; /* You can edit the thickness of the border, alongside the border type & colour */
+}
+
+/* Same thing but with Selected Items */
+
+.HotBar .HotBarItem.SelectedItem {
+   background-color: #0e10146b !important;
+   border: .25rem solid #13141a !important;
+}

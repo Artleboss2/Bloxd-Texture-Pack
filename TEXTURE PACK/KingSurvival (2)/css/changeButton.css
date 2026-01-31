@@ -1,0 +1,59 @@
+.BlueButton {
+  background-image: linear-gradient(352deg, #39c6ffb0 0%, #080808b8 70%) !important;
+  background-color: #00000000 !important;
+  border: 1px solid #238aa1db !important;
+  border-radius: 0rem !important;
+}
+
+.BlueButton .ButtonBottomBorder {
+  background-color: #00000000 !important;
+}
+
+.BlueButton .ButtonTopBorder {
+  background-color: #00000000 !important;
+}
+
+.RedButton {
+  background-image: linear-gradient(352deg, #ff3939b0 0%, #080808b8 70%) !important;
+  background-color: #00000000 !important;
+  border: 1px solid #a12323db !important;
+  border-radius: 0rem !important;
+}
+
+.NewButton {
+    background-image: linear-gradient(352deg, #afe8ffb0 0%, #080808b8 70%);
+    background-color: #00000000 !important;
+    border: 1px solid #99ffffdb;
+    border-radius: 0rem !important;
+}
+
+.CreatePartyButton, .JoinPartyAction .JoinPartyButton {
+  background-image: linear-gradient(352deg, #39c6ffb0 0%, #080808b8 70%) !important;
+  background-color: #00000000 !important;
+  border: 1px solid #238aa1db !important;
+  border-radius: 0rem !important;
+}
+
+.HomePageActionBar .ActionShortcutBar .GetSuperRankButton {
+  background-image: linear-gradient(352deg, #ffe034bf 0%, #0a09036b 60%) !important;
+  background-color: #00000000 !important;
+  border: 1px solid #ffdb2bdb !important;
+  border-radius: 0rem !important;
+}
+
+.CreatePartyButton {
+  background-image: linear-gradient(352deg, #9834ffbf 0%, #0a09036b 60%) !important;
+  background-color: #00000000 !important;
+  border: 1px solid #ae56ffd9 !important;
+  border-radius: 0rem !important;
+}
+
+/* WRITE ABLE :P */
+
+.AccountSettings .SetAccountNameDiv .EnterAccNameDivWrapper .EnterName {
+  background-image: linear-gradient(352deg, #39c6ffb0 0%, #080808b8 70%) !important;
+  background-color: #00000000 !important;
+  border-radius: 0rem !important;
+  border: 1px solid #57e8ff9e !important;
+}
+

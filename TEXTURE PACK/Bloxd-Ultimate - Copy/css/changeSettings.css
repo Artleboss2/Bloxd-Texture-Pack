@@ -1,0 +1,204 @@
+.EverythingMenuContainer .EverythingMenu {
+  background-color: #14192896 !important;
+  border-radius: 1rem !important;
+  border: 1px solid #00d8ff !important;
+  box-shadow: 0 0 20px rgb(0 173 255), inset 0 0 5px rgba(22, 201, 255, 0.9) !important;
+}
+
+.EverythingMenuContainer .EverythingMenu .EverythingMenuTabList {
+  border: 0px solid #00000000 !important;
+  box-shadow: 0 0 #00000000 !important;
+  background-color: #0000002d !important;
+  border-radius: 1rem !important;
+}
+
+.EverythingMenuTab.EverythingMenuTabActive {
+  background-color: #00000000 !important;
+  border: 0px solid #00000000 !important;
+  color: #ffffff !important;
+  text-shadow: 0 0 10px rgba(255, 255, 255, 0.6) !important;
+  background-image: url('https://iili.io/Ko0dOPa.png') !important;
+  background-size: contain !important;
+  background-repeat: no-repeat !important;
+  filter: brightness(1) !important;
+}
+
+.EverythingMenuTab {
+  filter: brightness(0.7); 
+  border: 0px solid #00000000 !important; 
+}
+
+.SettingsMenu {
+  background-color: #14192896 !important;
+  border-radius: 1rem !important;
+  border: 1px solid #00d8ff !important;
+  box-shadow: 0 0 20px rgb(0 173 255), inset 0 0 5px rgba(22, 201, 255, 0.9) !important;
+}
+
+.SettingsMenuLeft {
+  background-color: #00000000 !important;
+  background-image: linear-gradient(57deg, #ff00684f 0%, #21a4fe30 74%) !important;
+}
+
+.Menu .MenuSideBar .MenuSideBarBody .MenuSideBarBodyTab.ActiveMenuSideBarBodyTab {
+  border: 0px solid #00000000 !important;
+  color: #ffffff !important;
+  background-color: #00000000 !important;
+  background-image: linear-gradient(351deg, #1155c26b 0%, #5b234096 74%) !important;
+}
+
+.Menu .MenuSideBar .MenuSideBarBody .MenuSideBarBodyTab {
+  border-width: 0rem !important;
+  background-color: #00000000 !important;
+  height: 2.2rem !important;
+}
+
+.Menu .MenuSideBar .MenuSideBarBody {
+  gap: 0.1rem !important;
+}
+
+.BloxdDropdownControl {
+    background-color: #424d6100 !important;
+    background-image: linear-gradient(315deg, #ff005875 0%, #21a4fe30 74%) !important;
+    border-color: #1ef1ff !important;
+    border-radius: 1rem !important;
+    color: #fff;
+    font-size: 1em;
+    padding-right: 6em;
+}
+
+.Menu .MenuSideBar .MenuSideBarBody .MenuSideBarBodyTab.ActiveMenuSideBarBodyTab {
+  color: #ffffff !important;
+  background-color: #00000000 !important;
+  background-image: linear-gradient(351deg, #1155c26b 0%, #5b234096 74%) !important;
+  border: 0px solid #00000000 !important;
+  height: 2.2rem !important;
+  align-items: center !important;
+}
+
+.SettingsMenuRightInner .SettingBox {
+  background-color: #424d6100 !important;
+  background-image: linear-gradient(315deg, #94003378 0%, #196ba369 74%) !important;
+  border: 1px solid #11ecff !important;
+  border-radius: 1rem !important;
+}
+
+.SettingsMenuRightInner .SettingBoxGroup>.SettingBox:first-of-type {
+  box-shadow: 0 0 20px rgb(255, 7, 7), inset 0 0 5px rgba(255, 22, 22, 0.9);
+}
+
+.SettingsMenuRightInner .SettingsBoxWarning {
+  color: #dd0000 !important;
+  box-shadow: 0 0 20px rgb(255, 7, 7), inset 0 0 5px rgba(255, 22, 22, 0.9);
+  border: 2px solid #d10000 !important;
+}
+
+.BloxdDropdownMenu {
+    background-color: #424d6100 !important;
+    background-image: linear-gradient(315deg, #940033 0%, #196ba3 74%) !important;
+    border-color: #1ef1ff !important;
+    border-radius: 1rem;
+    color: #fff;
+    font-size: 1em;
+}
+
+.LoginButtonContainer .LoginButton .LoginButtonIcon {
+  filter: none !important;
+}
+
+.LoginButtonContainer .LoginButton {
+  border-radius: 1rem !important;
+}
+
+.UpdateLogsContainer .UpdateLog {
+  background-color: #00000000 !important;
+  background-image: linear-gradient(315deg, #94003378 0%, #196ba369 74%) !important;
+  border-radius: 1.5rem !important;
+}
+
+.ControlsContainer .ControlRow {
+    background-color: #424d6100 !important;
+    background-image: linear-gradient(315deg, #ff005875 0%, #21a4fe30 74%) !important;
+    border-radius: 1rem !important;
+    border: 1px solid #1ab9ff !important;
+}
+
+.MiddleScreenPopup {
+  background-color: #424d6100 !important;
+  background-image: linear-gradient(315deg, #ff005875 0%, #21a4fe30 74%) !important;
+  border-radius: 1rem !important;
+  border: 1px solid #1ab9ff !important; 
+}
+
+.ControlsContainer .ControlRow .ControlRowWarning {
+  background-color: #00d8ff !important;
+}
+
+.InviteLinkInner {
+    background-image: linear-gradient(315deg, #ff005875 0%, #21a4fe30 74%) !important;
+    border: 1px solid #1ab9ff !important;
+}
+
+.ActiveSettingsSectionTitle {
+    background-color: #00000000 !important;
+    background-image: linear-gradient(209deg, #94003446 0%, #0e75b934 74%) !important;
+    border: 0px solid #00000000 !important;
+    color: #35ebff !important;
+}
+
+.Menu .MenuBody {
+  background-color: #14192896 !important;
+}
+
+.Menu .MenuSideBar {
+  background-color: #1a1d2873 !important;
+}
+
+.SocialBarContainer .SocialBarOuter .SocialBar .SocialBarInner {
+  border-radius: 1rem !important;
+}
+
+.TexurePack.Selected.Custom {
+  opacity: 0 !important;
+  height: 0% !important;
+}
+
+.TexturePackCategory .TexturePackList {
+  grid-template-columns: repeat(4, 1fr) !important;
+}
+
+/* Char Customization */
+
+.CharCustomisationBody .CharCustomisationBodyInner .CharCustomisPartSelectorWrapper .CharCustomPartWrapper.SelectedCharCustomPartWrapper {
+  background-color: #00000000 !important;
+  background-image: linear-gradient(315deg, #ff2873c2 0%, #41b3ff85 74%) !important;
+  border-radius: 1rem !important;
+  border: 3px solid #1ab9ff !important;
+  filter: brightness(1) !important;
+}
+
+.CharCustomisationBody .CharCustomisationBodyInner .CharCustomisPartSelectorWrapper .CharCustomPartWrapper {
+  filter: brightness(0.75);
+  background-color: #00000000 !important;
+  background-image: linear-gradient(315deg, #68163381 0%, #195e8b4f 74%);
+  border-radius: 1rem !important;
+  border: 3px solid #1187b9c9;
+  border-color: #094b67c9 !important;
+}
+
+.CharCustomisationBody .CharCustomisationBodyHeader {
+  background-color: #00000000 !important;
+  color: #00000000 !important;
+  border: 0px solid #00000000;
+  gap: 0rem !important;
+  padding: 0rem !important;
+  width: 0rem !important;
+  height: 0rem !important;
+  filter: opacity(0) !important;
+  opacity: 0 !important;
+  flex-direction: column-reverse !important;
+}
+
+.CharCustomisationBody .CharCustomisationBodyHeader .GoldButton {
+  padding: 0rem !important;
+}

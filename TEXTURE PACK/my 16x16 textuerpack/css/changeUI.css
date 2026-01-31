@@ -1,0 +1,12 @@
+/* HOME BACKGROUND */
+
+.HomePageInner {
+  background-image: url('https://iili.io/Kncb2J2.jpg') !important;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+  background-position: center !important;
+}
+
+.HomePageBackgroundContainer {
+  filter: opacity(0) !important;
+}

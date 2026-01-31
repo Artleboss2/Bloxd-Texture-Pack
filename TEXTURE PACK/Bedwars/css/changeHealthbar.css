@@ -1,0 +1,10 @@
+/* Healthbar Changes */
+.BottomScreenStatBar {
+  background-color: darkturquoise;
+  border: .25rem solid deepskyblue;
+  box-shadow: inset 0 .4rem 0 0 darkturquoise, inset 0 -.4rem 0 0 dodgerblue;
+}
+
+.BottomScreenStatBarWrapper {
+  left: 14.4rem;
+}

@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'White Rabbit';
+  src: url('https://fonts.cdnfonts.com/s/26859/WHITRABT.woff') format('woff'),
+       url('https://fonts.cdnfonts.com/s/26859/WHITRABT.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.WholeAppWrapper {font-family: 'White Rabbit', sans-serif;}

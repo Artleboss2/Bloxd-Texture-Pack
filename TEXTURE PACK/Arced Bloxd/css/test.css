@@ -1,0 +1,13 @@
+/* Fonts: Check out https://fonts.cdnfonts.com or https://fonts.google.com. Import via CSS */
+
+@import url('https://fonts.cdnfonts.com/css/minecraftia');
+
+.WholeAppWrapper {
+    font-family: "minecraftia", sans-serif;
+}
+
+/* Edit the Background Image. Get the Image Address by right clicking the image and clicking 'Copy Image Address' */
+
+.HomeBackground{
+    background-image: url('https://i.imgur.com/O0i5ljO.png') !important;
+}

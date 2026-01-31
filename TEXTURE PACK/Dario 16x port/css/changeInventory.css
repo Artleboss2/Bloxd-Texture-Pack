@@ -1,0 +1,17 @@
+.Inventory {
+  background-color: #00000000;
+  border: 0;
+  box-shadow: none;
+}
+
+.InvenItem {
+  background-color: #ffffff00;
+  background-image: url(https://imgur.com/njn2gmX.png) !important;
+  background-size: contain !important;
+  background-repeat: no-repeat !important;
+  border: 0;
+}
+
+.InventoryWrapper {
+  backdrop-filter: blur(3px) !important;
+}

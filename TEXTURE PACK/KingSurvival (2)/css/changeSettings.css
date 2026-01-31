@@ -1,0 +1,263 @@
+.SettingsMenu {
+  background-color: #00000000 !important;
+  background-image: linear-gradient(1deg, #3196df82 0%, #08080896 74%) !important;
+  border-radius: 0rem !important;
+  border: 10px solid transparent !important;
+  border-image: url("https://iili.io/35EpkcG.png") 25 stretch !important;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+  background-position: center !important;
+  box-shadow: 0rem 0rem 0 #00000000 !important;
+  backdrop-filter: blur(4px) !important;
+}
+
+.SettingsMenuLeft {
+  background-color: #00000000 !important;
+  background-image: linear-gradient(1deg, #28c2ff4f 0%, #08080896 74%) !important;
+}
+
+.ActiveSettingsSectionTitle {
+  background-color: #00000000 !important;
+  background-image: linear-gradient(351deg, #28c2ff4f 0%, #08080896 74%) !important;
+  border: 0px solid #00000000 !important;
+}
+
+.BloxdDropdownControl {
+  background-image: linear-gradient(352deg, #39c6ffb0 0%, #080808cc 70%) !important;
+  background-color: #00000000 !important;
+  border-radius: 0rem !important;
+  border: 1px solid #57e8ff9e !important;
+}
+
+.Dropdown-option.is-selected {
+  background-image: linear-gradient(352deg, #39c6ffb0 0%, #080808b8 70%) !important;
+  background-color: #00000000 !important;
+  border-radius: 0rem !important;
+  border: 1px solid #57e8ff9e !important;
+}
+
+.BloxdDropdownMenu {
+  background-image: linear-gradient(352deg, #39c7ffec 0%, #151616d5 70%) !important;
+  background-color: #00000000 !important;
+  border-radius: 0rem !important;
+  border: 3px solid #57e8ff9e !important;
+  border-image: url("https://iili.io/35EpkcG.png") 20 stretch !important;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+  background-position: center !important;
+}
+
+.GameInformation .GameInformationInner .LobbyCollection .CustomLobbyList .CustomLobbyListInner .CustomLobby.CreateCustomLobby {
+  background-color: #00000000 !important;
+  background-image: linear-gradient(352deg, #39c6ffb0 0%, #080808b8 70%) !important;
+  border: 1px solid #238aa1db !important;
+  border-radius: 0rem !important;
+}
+
+.UiRequests .UiRequestContainer .UiRequest .UiRequestInner {
+  background-image: linear-gradient(352deg, #39c7ffec 0%, #151616d5 70%) !important;
+  background-color: #00000000 !important;
+  border-radius: 0rem !important;
+  border: 3px solid #57e8ff9e !important;
+  border-image: url("https://iili.io/35EpkcG.png") 20 stretch !important;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+  background-position: center !important;
+}
+
+.UiRequests .UiRequestContainer.RewardedAdUiRequestContainer .UiRequest .UiRequestInner {
+  box-shadow: 0rem 0rem 0 #00000000 !important;
+}
+
+.SettingsMenuRightInner .SettingsBoxWarning {
+  color: #ff0000 !important;
+}
+
+.ActiveSettingsSectionTitle {
+  color: #41f5ff !important;
+}
+
+.SettingsMenuRightInner .SettingBox {
+  background-color: #00000000 !important;
+  background-image: linear-gradient(1deg, #0493cf69 0%, #00000000 74%) !important;
+  border-radius: 0rem !important;
+  border: 1px solid #04e8ff !important;
+}
+
+.ControlsContainer .ControlRow {
+  background-color: #00000000 !important;
+  background-image: linear-gradient(1deg, #059ad9b3 0%, #00000000 74%) !important;
+  border-radius: 0rem !important;
+  border: 1px solid #04e8ff !important;
+}
+
+.ControlsContainer .ControlRow.WarningBorder {
+  border: 1px solid #00dcff !important;
+  border-radius: 0rem !important;
+}
+
+.ControlsContainer .ControlRow .ControlRowWarning {
+  background-color: #00dcff !important;
+}
+
+.TexturePackCategory .TexturePack.Selected {
+  border: 2px solid #00c4ff !important;
+  border-radius: 0rem !important;
+}
+
+.TexturePackCategory .TexturePack {
+  border-radius: 0rem !important;
+} 
+
+.TexturePackCategory .CustomTexturePackContainer {
+  border: 2px solid #14c7ff !important;
+  border-radius: 0rem !important;
+}
+
+.TexturePackCategory .CustomTexturePackContainer .CustomTextureWarning {
+  background-color: #14c7ff !important;
+}
+
+/* SHOP */
+
+.ShopBody {
+  background-image: linear-gradient(1deg, #3196df82 0%, #08080896 74%) !important;
+  border-radius: 0rem !important;
+  border: 10px solid transparent !important;
+  border-image: url("https://iili.io/35EpkcG.png") 20 stretch !important;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+  background-position: center !important;
+  box-shadow: 0rem 0rem 0 #00000000 !important;
+}
+
+.Menu .MenuBody {
+  background-color: #00000000 !important;
+  background-image: linear-gradient(1deg, #3196df42 0%, #00000057 74%) !important;
+}
+
+.Menu .MenuSideBar {
+  background-color: #00000000 !important;
+  background-image: linear-gradient(1deg, #37abffad 0%, #00000087 74%) !important;
+}
+
+.ShopItem.ShopItemNoInputCanBuy {
+  background-color: #00000000 !important;
+  background-image: linear-gradient(1deg, #0493cf69 0%, #00000000 74%) !important;
+  border-radius: 0rem !important;
+  border: 1px solid #04e8ff !important;
+  filter: brightness(1) !important;
+}
+
+.ShopItem {
+  border: 1px solid #04e8ff;
+  background-color: #00000000 !important;
+  background-image: linear-gradient(1deg, #0d65a569 0%, #00000000 74%);
+  border-radius: 0rem !important;
+  filter: brightness(1);
+}
+
+.ShopItem.ShopItemNoInput {
+  background-color: #00000000 !important;
+  background-image: linear-gradient(1deg, #5f676f69 0%, #00000059 74%);
+  border-radius: 0rem !important;
+  border: 1px solid #ffffff42;
+  filter: brightness(0.5);
+}
+
+/* INVENTORY */
+
+.Inventory {
+  background-color: #00000000 !important;
+  background-image: linear-gradient(1deg, #3196df82 0%, #08080896 74%) !important;
+  border-radius: 0rem !important;
+  border: 10px solid transparent !important;
+  border-image: url("https://iili.io/35EpkcG.png") 20 stretch !important;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+  background-position: center !important;
+  box-shadow: 0rem 0rem 0 #00000000 !important;
+}
+
+.InvenItem {
+    content-visibility: auto;
+    align-items: center;
+    background-color: #26628d47 !important;
+    border-color: #00c6f3 !important;
+    border-radius: .5rem;
+    border-style: solid;
+    border-width: .2rem;
+    contain: strict;
+    display: flex;
+    height: 4rem;
+    justify-content: center;
+    width: 4rem;
+}
+
+.CraftableItemNotEnoughIngredients {
+    background-color: #00000000 !important;
+    background-image: linear-gradient(1deg, #8b121282 0%, #08080896 74%) !important;
+    border-color: #351c1c !important;
+    border-style: solid;
+    border-width: .2rem;
+}
+
+.InvenHoveredItemInfo {
+  background-image: linear-gradient(60deg, #222629, #2a3a4e 125%) !important;
+  border: 0.5px solid #0f79aa;
+}
+
+/* CONTROL SETTINGS */
+
+.ControlsContainer .ControlRow .ControlRowInner .ControlBindingsContainer .ControlBindingAddInput .InputContainer input {
+  background-color: #00000000;
+  background-image: linear-gradient(1deg, #3196dfad 0%, #00000087 74%) !important;
+  border-radius: 0rem !important;
+}
+
+/* GAMEMODES */
+
+.GameCardContainer .AvailableGame {
+  background-color: #00000000;
+  border-radius: 0rem !important;
+}
+
+.GameCardContainer .AvailableGame .AvailableGameTextWrapper .AvailableGameTextWrapperBackground {
+  background-color: #00000000;
+  background-image: linear-gradient(344deg, #3196df6b 0%, #0000004a 74%) !important;
+  border-radius: 0rem !important;
+}
+
+.MiddleScreenPopupBackground .MiddleScreenPopup {
+  background-color: #00000000 !important;
+  background-image: linear-gradient(1deg, #3196df82 0%, #08080896 74%) !important;
+  border-radius: 0rem !important;
+  border: 10px solid transparent !important;
+  border-image: url("https://iili.io/35EpkcG.png") 25 stretch !important;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+  background-position: center !important;
+  box-shadow: 0rem 0rem 0 #00000000 !important;
+}
+
+.LogoLoader:not(.LogoLoaderLoading) .LogoLoaderOuter {
+  border-radius: 10rem !important;
+}
+
+.RightInfoDiv {
+  border-radius: .5rem !important;
+  margin: .5rem !important;
+}
+
+.FloatingActions {
+  border-radius: 0rem !important;
+  background-color: #00000000 !important;
+  border: 0.05px solid #20cbe9ec !important;
+  background-image: linear-gradient(1deg, #3196df82 0%, #08080896 74%) !important;
+}
+
+.FloatingActions .FloatingAction {
+  border-radius: 0rem !important;
+  background-color: #00000000 !important;
+  background-image: linear-gradient(1deg, #3196df82 0%, #08080896 74%) !important;
+}

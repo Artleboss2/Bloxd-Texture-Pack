@@ -1,0 +1,58 @@
+.HotBarItem {
+  border: 0 !important;
+  outline: 1px solid #00000000 !important;
+  background-color: #00000000 !important;
+  height: 4rem !important;
+  width: 4rem !important;
+  transform: scale(.85) !important;
+}
+
+.SelectedItem {
+  outline: 1px solid #00000000 !important;
+  background-color: #00000000 !important;
+  background-image: url(https://iili.io/3OAmYYb.png) !important;
+  background-size: contain !important;
+  background-repeat: no-repeat !important;
+  transform: scale(1) !important;
+}
+
+.HotBarGameItemsContainer {
+  gap: 0 !important;
+  background-image: url(https://iili.io/3Xuga7j.png) !important;
+  background-size: contain !important;
+  background-repeat: no-repeat !important;
+}
+
+.TwoDImageIcon {
+  height: 65%;
+  width: 65%;
+}
+
+.ButtonHotBarItem {
+  opacity: 0 !important;
+}
+
+.BlockItem {
+  outline: 1px solid #00000000 !important;
+}
+
+.BlockItem2 {
+  filter: brightness(0.85);
+  outline: 1px solid #00000000 !important;
+  top: 100%;
+  transform-origin: 0% 0%;
+}
+
+.BlockItem3 {
+  filter: brightness(0.85);
+  left: 100%;
+  transform-origin: 0% 0%;
+}
+
+.BlockItem3Inner {
+  outline: 1px solid #00000000 !important;
+}
+
+.Hotbar {
+  margin-bottom: 1.35rem;
+}

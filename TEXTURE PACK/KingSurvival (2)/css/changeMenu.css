@@ -1,0 +1,240 @@
+.HomeHeader .HomeHeaderInner .HomeHeaderTop .HomeHeaderAccount .PlayerNamePreview {
+  background-image: linear-gradient(352deg, #39c6ffb0 0%, #080808b8 70%) !important;
+  background-color: #00000000 !important;
+  border-radius: 0rem !important;
+  border: 5px solid transparent !important;
+  border-image: url("https://iili.io/35EpkcG.png") 20 stretch !important;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+  background-position: center !important;
+}
+
+.TextInput {
+  background-color: #1b4259ad !important;
+  border: 1px solid #31bcf1b3 !important;
+}
+
+.JoinPartyAction .JoinPartyHashtag {
+  background-color: #2d2d2d8c !important;
+  border-radius: 0rem !important;
+  border: 1px solid #31bcf1b3 !important;
+}
+
+.HomePageActionBar .ActionShortcutBar {
+  background-color: #363e4b87 !important;
+  border-radius: 0rem !important;
+}
+
+.HomePageActionBar .HomePagePartyBar {
+  background-color: #363e4b87 !important;
+  border-radius: 0rem !important;
+}
+
+.SocialBarContainer .SocialBarOuter .SocialBar .SocialBarInner {
+  border-radius: 0rem !important;
+}
+
+.SocialBarContainer .SocialBarOuter .SocialBar .SocialBarInner .SocialBarBody {
+  background-image: linear-gradient(352deg, #39c6ffb0 0%, #080808b8 70%) !important;
+  background-color: #00000000 !important;
+  border-radius: 0rem !important;
+}
+
+.SocialBarContainer .SocialBarOuter .SocialBar .SocialBarInner .SocialBarFooter {
+  background-color: #39c6ffb0 !important;
+  border-radius: 0rem !important;
+}
+
+.CenteredDiv .SelectGameGridBackgroundContainer {
+  filter: opacity(0) !important;
+}
+
+.HomePageBackgroundContainer {
+  filter: opacity(0) !important;
+}
+
+.HomePageInner {
+  background-image: url('https://iili.io/30n0ZL7.jpg') !important;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+  background-position: center !important;
+}
+
+.CenteredDiv .CenteredDivLower .CenteredDivLowerLeft .HomeScreenBottomLeft .BottomRightInfoBox .BottomRightInfoBoxBackground {
+  background-color: #00000000 !important;
+  background-image: linear-gradient(347deg, #2ce8ff 0%, #080808b8 70%) !important;
+  border-radius: 0rem !important;
+}
+
+.HomeHeader .HomeHeaderInner .HomeHeaderTop .HomeHeaderRightContainer .HomeHeaderRight {
+  background-color: #00000000 !important;
+  background-image: linear-gradient(347deg, #2ce8ff 0%, #080808b8 70%) !important;
+  border-radius: 0rem !important;
+}
+
+.LogoLoaderInner {
+    border-radius: 10rem !important;
+    box-sizing: border-box;
+    position: absolute;
+    background-size: contain !important;
+    background-repeat: no-repeat !important;
+    background-image: url('https://iili.io/3VdlPp9.jpg') !important;
+}
+
+.Loader .LoaderOuter {
+    animation: rotate 0s ease-in-out infinite !important;
+    border-top: var(--border-size) solid #22283b;
+    border: var(--border-size) solid #22283b;
+    border-top-color: #00f1ff !important;
+    height: 100%;
+    left: 0;
+    top: 0;
+    width: 100%;
+}
+
+.LogoLoader .LogoLoaderInner .row .cell {
+    aspect-ratio: 0/0 !important;
+    width: 0% !important;
+    filter: opacity(0) !important;
+    background-size: contain !important;
+    background-repeat: no-repeat !important;
+}
+
+.LoadingOverlay .LoadingOverlayDividerContainer .LoadingOverlayDivider {
+  background-color: #00000000 !important;
+  height: 0% !important;
+  margin: 0rem !important;
+  width: 0rem !important;
+}
+
+.LogoLoader.LogoLoaderLoading .LogoLoaderOuter {
+    background-image: linear-gradient(347deg, #2ce8ffb5 0%, #08080869 70%) !important;
+    border: 0px solid #00000000 !important;
+}
+
+.LoadingOverlay .LoadingOverlayLeft {
+  width: 0rem !important;
+}
+
+.SettingsAdInner {
+  width: 0rem !important;
+}
+
+/* SKIN TAB CUSTOMIZATION */
+
+.CharCustomisation {
+  background-image: linear-gradient(352deg, #39c6ffb0 0%, #080808b8 70%) !important;
+  background-color: #00000000 !important;
+  border-radius: 0rem !important;
+  border: 11px solid transparent !important;
+  border-image: url("https://iili.io/35EpkcG.png") 20 stretch !important;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+  background-position: center !important;
+  box-shadow: 0rem 0rem 0 #00000000 !important;
+}
+
+.SidebarMenu .SidebarMenuTitle.ActiveSidebarMenuTitle {
+  background-color: #00000000 !important;
+  background-image: linear-gradient(351deg, #28c2ff4f 0%, #08080896 74%) !important;
+  border: 0px solid #00000000 !important;
+  color: #14dcff !important;
+}
+
+.GameInformation .GameInformationInner .GameInformationTop .GameInformationTopBackgroundContainer .GameInformationTopBackgroundColor {
+  background-color: #22283b00 !important;
+}
+
+.GameInformation .GameInformationInner .GameInformationTop .GameInformationTopInner .GameInformationHeader .GameInformationTitle .GameInformationVariationList .GameInformationVariation.SelectedGameInformationVariation {
+  border: 1px solid #14d4ff !important;
+}
+
+.SocialBarHeader {
+  background-color: #00000096 !important;
+}
+
+.SocialBarContainer .SocialBarOuter.Expanded .SocialBar .SocialBarInner .SocialBarHeader {
+    background-color: #00000096
+}
+
+.LabeledInput .Label {
+  background-color: #142839b5 !important;
+  border-radius: 0rem !important;
+}
+
+.LabeledInput .OtherInput {
+  background-color: #1f4a5bc7 !important;
+  border-radius: 0rem !important;
+}
+
+.LabeledInput .TextInput {
+  border-radius: 0rem !important;
+}
+
+.LabeledInput .TextInput, .LabeledInput input {
+  background-color: #142839b5 !important;
+  border-radius: 0rem !important;
+  border: 1px solid #14d4ff !important;
+}
+
+.CreateCustomLobbyPopup .CreateCustomLobby .CreateCustomLobbyBody .CreateCustomLobbySection .SectionBody {
+  border: 0px solid #00000000 !important;
+  border-radius: 0rem !important;
+}
+
+.UpdateLogPopupOuter .UpdateLogPopup .UpdateLogPopupInner {
+  background-image: linear-gradient(352deg, #39c6ffb0 0%, #080808b8 70%) !important;
+  background-color: #00000000 !important;
+}
+
+.UpdateLogPopupOuter .UpdateLogPopup .UpdateLogPopupInner .UpdateLogsContainer .UpdateLog {
+  background-image: linear-gradient(13deg, #55ddff5c 0%, #0808086e 60%) !important;
+  background-color: #00000000 !important;
+}
+
+.AdBanner.SuperRankAd.SuperRankAdHalfPage {
+  height: 0rem !important;
+  width: 0rem !important;
+  filter: opacity(0) !important;
+}
+
+.AdBanner.SuperRankAd {
+  filter: opacity(0) !important;
+}
+
+.AdBanner.SuperRankAd.SuperRankAdLeaderboard {
+  height: 0rem !important;
+  width: 0rem !important;
+  filter: opacity(0) !important;
+}
+
+.InviteLinkInner {
+    background-color: #00000000 !important;
+    background-image: linear-gradient(353deg, #39c6ff61 0%, #08080859 70%) !important;
+    border-color: #238aa1db !important;
+    border-radius: 0rem !important;
+}
+
+.LoadingOverlay {
+  background-image: url('//iili.io/3vSGu3B.gif') !important;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+  background-position: center !important;
+}
+
+.LoadingOverlay .LoadingOverlayRight .LoadingOverlayRightBody {
+  justify-content: center !important;
+}
+
+.LoadingOverlay .LoadingOverlayRight .LoadingOverlayRightAdBannerContainer {
+  height: 0% !important;
+}
+
+.LoadingOverlay .LoadingOverlayRight {
+  backdrop-filter: brightness(0.85) opacity(0.5) !important;
+}
+
+.TexturePackCategory .TexturePack .TexturePackName {
+  backdrop-filter: grayscale(1) !important;
+  filter: brightness(0.85) !important;
+}

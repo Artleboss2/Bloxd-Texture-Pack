@@ -1,0 +1,13 @@
+/* Change Gamemodes Thumbnails */
+
+.GameCardContainer .AvailableGame .AvailableGameTextWrapper .AvailableGameTextWrapperBackground {
+  background-color: #177bab !important;
+}
+
+.AvailableGame .AvailableGamebedwarsduo {
+  background-image: url('https://iili.io/2rZBgzg.png') !important; /* Change Bedwars Thumbnail */
+}
+
+.AvailableGame .AvailableGamebedwars4v4v4v4 {
+  background-image: url('https://iili.io/2rZnAPf.png') !important; /* Change Bedwars 4v4v4v4 Thumbnail */
+}

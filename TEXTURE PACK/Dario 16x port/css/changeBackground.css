@@ -1,0 +1,24 @@
+.CenteredDiv .SelectGameGridBackgroundContainer {
+  filter: opacity(0) !important;
+}
+
+.HomePageInner {
+  background-image: url('https://imgur.com/KXOE8Gj.png') !important;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+  background-position: center !important;
+}
+
+.TitleContainer {
+  background-image: url(https://i.imgur.com/lPrAcMT.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.LogoContainer {
+  opacity: 0;
+}
+
+.Title {
+  opacity: 0;
+}

@@ -1,0 +1,180 @@
+/* Settings changes */
+.SettingsMenu {
+  background-color: #233e494f;
+  border: 3px solid #00d0ff;
+  border-radius: 1rem;
+  backdrop-filter: blur(8px);
+  box-shadow: .2rem .25rem 0 rgb(255 255 255 / 0%)
+}
+
+.SettingsMenuLeft {
+  background-color: #0095ff21;
+}
+
+.ActiveSettingsSectionTitle{
+  background-color: #00b8ff5c !important;
+  border-bottom: 0px solid #ffffff00 !important;
+  border-bottom-width: 0px;
+  border-top: 0px solid #ffffff00 !important;
+  color: #00f1ff !important;
+}
+
+.SettingsSectionTitle:hover{
+  background-color: #00b8ff5c;
+  border-bottom: 0px solid #ffffff00;
+  border-top: 0px solid #ffffff00;
+  color: #00f1ff;
+}
+
+.ShopBody {
+  background-color: rgb(0 42 119 / 14%);
+  backdrop-filter: blur(8px);
+  border: 1px solid #00dcff;
+}
+
+.ShopSidebarMenu {
+  background-color: rgb(63 187 237 / 19%);
+  border: 0px solid #00dcff;
+}
+
+.SidebarMenu {
+  background-color: rgb(63 187 237 / 19%);
+  border: 0px solid #00dcff;
+}
+
+.ShopItemHeaderDiv {
+  background-color: rgb(63 187 237 / 19%);
+  border: 0px solid #00dcff;
+}
+
+.ShopItem {
+  background-color: rgb(63 187 237 / 19%);
+  border: 0px solid #00dcff;
+}
+
+.SelectedShopItem {
+  background-color: rgb(63 187 237 / 19%);
+  border: 0px solid #00dcff;
+}
+
+.ActiveSidebarMenuTitleTitle {
+  background-color: #00b8ff42;
+  color: #14f2ff;
+  border-bottom:0px solid #00000000 transparent;
+  border-top:0px solid #00000000 transparent;
+}
+
+.SidebarMenuTitle {
+   background-color: #0077af45;
+   border-bottom:0px solid #00000000 !important;
+   border-top:0px solid #00000000 !important;
+   color:#ffffff;
+}
+
+.ShopItemHeaderDiv {
+  background-color: #22c2ff;
+}
+
+.ActiveSettingsSectionTitle {
+  border-bottom: 1px solid #303a5900;
+  border-top: 1px solid #303a5900;
+}
+
+.SelectedItemHeaderDiv {
+  background-color: #00b8ff;
+}
+
+.SelectedItemViewer {
+  background-color: #00b8ff33;
+}
+
+.Inventory {
+  background-color: #00c4ff36;
+  border: 0px solid;
+  backdrop-filter: blur(8px);
+  box-shadow: .2rem .25rem 0 rgb(0 103 209 / 32%);
+}
+
+.InvenItem {
+  background-color: #ffffff00;
+  border-color: rgb(0, 220, 255);
+}
+
+.CharCustomisation {
+  background-color: #00a1ff2e;
+  border: 3px solid #00e7ff;
+  border-radius: 1.35rem;
+  backdrop-filter: blur(8px);
+  box-shadow: .2rem .25rem 0 rgb(0 184 255 / 35%);
+}
+
+.CharCustomisation {
+  background-color: #00a9db52;
+}
+
+.ControlsContainer .ControlRow {
+  background-image: url('https://iili.io/2rZorXe.png') !important;
+}
+
+.AccountContainer .AccountPreviewContainer .AccountPreview .AccountPreviewBackground {
+  background-color: #177bab !important;
+}
+
+.Header .HeaderRightContainer .HeaderRight .HeaderRightBackground {
+  background-color: #177bab !important;
+}
+
+.HomeScreenBottomRight .BottomRightInfoBox .BottomRightInfoBoxBackground {
+  background-color: #177bab !important;
+}
+
+.BloxdDropdownControl {
+  background-image: url('https://iili.io/2rZorXe.png') !important;
+}
+
+.TexturePackCategory .CustomTexturePackContainer {
+    border: 1px solid #00ceff !important;
+    border-radius: .5rem;
+    box-sizing: border-box;
+    margin-top: 2rem;
+    overflow: hidden;
+    width: 100%
+}
+
+.TexturePackCategory .CustomTexturePackContainer .CustomTextureWarning {
+    background-color: #00ceff !important;
+    color: #000;
+    font-size: 1rem;
+    padding: .4rem .5rem;
+    text-shadow: 0 0 0 #000
+}
+
+.TexturePackCategory .TexturePack.Selected {
+  border: 2px solid #14deff !important;
+}
+
+.BlueButton {
+    --buttonNormalColour: #12b6db !important;
+    --buttonHoverColour: #17cbf3;
+    --buttonTopColour: #8200ffc4;
+    --buttonBottomColour: #119cbb;
+}
+
+.BloxdDropdownMenu {
+    background-color: #3c4b68;
+    background-image: url('https://iili.io/2rZorXe.png') !important;
+    border-color: #0f0f0f;
+    border-radius: 0rem !important;
+    color: #fff;
+    font-size: 1em;
+    max-height: 20rem;
+}
+
+.SettingsMenuRightInner .SettingBox {
+    background-color: #1a455540 !important;
+    border: 1px solid #2ae1ff !important;
+    border-radius: .5rem !important;
+    opacity: 1 !important;
+    padding: 1rem !important;
+    transition: all .2s !important;
+}

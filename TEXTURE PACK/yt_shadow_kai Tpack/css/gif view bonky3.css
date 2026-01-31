@@ -1,0 +1,34 @@
+/* Hotbar Changes */
+.HotBar .HotBarItem {
+    background-color: #ffffff00 !important; /* Background Colour of Hotbar */
+    border: .0rem solid #ffffff00 !important; /* You can edit the thickness of the border, alongside the border type & colour */
+  }
+  
+  /* Same thing but with Selected Items */
+  
+  .HotBar .HotBarItem.SelectedItem {
+     background-color: #ffffff00 !important;
+     border: .25rem solid #ff00e996 !important;
+  }
+  
+  .HotBar .HotBarItem.ButtonHotBarItem {
+    opacity: 80 !important;
+  }
+  
+
+/* Fonts: Check out https://fonts.cdnfonts.com or https://fonts.google.com. Import via CSS */
+
+@import url('https://fonts.cdnfonts.com/css/minecraftia');
+
+.WholeAppWrapper {
+    font-family: "font-tester"'Times New Roman', Times, serif;
+}
+
+/* Edit the Background Image. Get the Image Address by right clicking the image and clicking 'Copy Image Address' */
+
+.HomeBackground{
+    background-image: url('https://68.media.tumblr.com/2a34800d81ceebd3d330977c9f3cd00d/tumblr_op5wr19Ig91wo7l9fo1_500.gif') !important;
+}
+.SocialBarBody {
+    background-image: url("https://i.imgur.com/VHgMz4M.gif") !important;
+}

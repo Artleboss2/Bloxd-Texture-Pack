@@ -1,0 +1,288 @@
+.LogoLoaderInner {
+    border-radius: 50%;
+    box-sizing: border-box;
+    position: absolute;
+    background-size: contain !important;
+    background-repeat: no-repeat !important;
+    background-image: url('https://iili.io/2p6uHtp.png') !important;
+}
+
+.LogoLoader .LogoLoaderInner {
+  filter: hue-rotate(333deg) invert(1) !important;
+  border-radius: 100% !important;
+}
+
+.Loader .LoaderOuter {
+    animation: rotate 0s ease-in-out infinite !important;
+    border-top: var(--border-size) solid #22283b;
+    border: var(--border-size) solid #22283b;
+    height: 100%;
+    left: 0;
+    top: 0;
+    width: 100%;
+}
+
+.LogoLoader .LogoLoaderInner .row .cell {
+    aspect-ratio: 0/0 !important;
+    width: 0% !important;
+    filter: opacity(0) !important;
+    background-size: contain !important;
+    background-repeat: no-repeat !important;
+}
+
+.LoadingOverlay .LoadingOverlayDividerContainer .LoadingOverlayDivider {
+  background-color: #00000000 !important;
+  height: 0% !important;
+  margin: 0rem !important;
+  width: 0rem !important;
+}
+
+.LogoLoader.LogoLoaderLoading .LogoLoaderOuter {
+    background-image: linear-gradient(315deg, #ff005857 0%, #21a4fe4a 74%) !important;
+    border: 0px solid #00000000 !important;
+    border-radius: 15rem !important;
+}
+
+.LogoLoader:not(.LogoLoaderLoading) .LogoLoaderOuter {
+    border-radius: 15rem !important;
+}
+
+.LoadingOverlay .LoadingOverlayLeft {
+  width: 0rem !important;
+  opacity: 0 !important;
+}
+
+.GameCardContainer .AvailableGame .AvailableGameTextWrapper .AvailableGameTextWrapperBackground {
+  background-color: #1c1e24 !important;
+}
+
+.SocialBarContainer .SocialBarOuter .SocialBar .SocialBarInner .SocialBarFooter {
+  background-color: rgb(9 11 20 / 44%) !important;
+}
+
+.SocialBarContainer .SocialBarOuter .SocialBar .SocialBarInner .SocialBarBody {
+  background-color: rgb(9 11 20 / 44%) !important;
+}
+
+.CenteredDiv .CenteredDivUpper .HomePagePartyBar {
+  background-color: #10152673 !important;
+}
+
+.HomePageActionBar .ActionShortcutBar .ActionShortcutBarElement {
+  background-color: #00000000 !important;
+}
+
+.CenteredDiv .CenteredDivUpper .ActionShortcutBar {
+  background-color: #10152673 !important;
+}
+
+.Header .HeaderLeftContainer .PlayerNamePreview {
+  background-color: #10152673 !important;
+  border-radius: 1rem !important;
+}
+
+.LoginButtonContainer .LoginButton {
+  border: 0px solid #00000000 !important;
+  border-radius: 1rem !important;
+}
+
+.CenteredDiv .CenteredDivLower .CenteredDivLowerLeft .HomeScreenBottomLeft .BottomRightInfoBox .BottomRightInfoBoxBackground {
+  background-color: #10152673 !important;
+}
+
+.Header .HeaderRightContainer .HeaderRight {
+  background-color: #10152673 !important;
+}
+
+.GameInformation .GameInformationInner .GameInformationTop .GameInformationTopBackgroundContainer .GameInformationTopBackgroundColor {
+  background-color: #ffffff00;
+  background-image: linear-gradient(45deg, #002161, #a73c77);
+}
+
+.GameInformation .GameInformationInner .LobbyCollection .CustomLobbyList .CustomLobbyListInner .CustomLobby.CreateCustomLobby {
+  background-color: #00000000 !important;
+  background-image: linear-gradient(45deg, #002161, #a73c77);
+  border: 1px solid #1a4b94e1 !important;
+  border-radius: 0rem !important;
+}
+
+.TextInput {
+  background-image: linear-gradient(315deg, #ff005857 0%, #21a4fe4a 74%) !important;
+  border: 1px solid #00a6c4c9 !important;
+  border-radius: 1rem !important;
+}
+
+.JoinPartyAction .JoinPartyHashtag {
+  background-color: #00000000 !important;
+  font-size: 0rem !important;
+  border: 0px solid #00000000 !important;
+  border-radius: 0rem !important;
+}
+
+.JoinPartyAction .JoinPartyInput {
+  padding: 0px 10px !important;
+  margin: 1px !important;
+}
+
+.AccountSettings .SetAccountNameDiv .EnterAccNameDivWrapper .EnterName {
+  background-color: #00000000 !important;
+}
+
+.HomeHeader .HomeHeaderInner .HomeHeaderTop .HomeHeaderRightContainer .HomeHeaderRight {
+  background-color: #10152673 !important;
+  border-radius: 1rem !important;
+}
+
+.RightInfoDiv {
+  border-radius: .5rem !important;
+  margin: .5rem !important;
+}
+
+.CenteredDiv .SelectGameGridBackgroundContainer {
+  filter: opacity(0) !important;
+}
+
+.HomePageInner {
+  background-image: url('https://iili.io/3EpShyN.jpg') !important;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+  background-position: center !important;
+}
+
+.HomePageBackgroundContainer {
+  filter: opacity(0) !important;
+}
+
+.ToastNotification {
+  height: 0rem !important;
+  width: 0rem !important;
+  opacity: 0 !important;
+  filter: opacity(0) !important;
+}
+
+/* Custom Games */
+
+.CenteredDiv .CenteredDivMiddle .TopCustomGameList {
+  width: 0rem !important;
+  height: 0rem !important;
+  opacity: 0 !important;
+}
+
+.CenteredDiv .CenteredDivMiddle .TopCustomGameList .TopCustomGameListTitle {
+  gap: 0rem !important;
+  font-size: 0rem !important;
+  color: #00000000 !important;
+  font-weight: 0 !important;
+  opacity: 0 !important;
+}
+
+.CenteredDiv .CenteredDivMiddle .TopCustomGameList .TopCustomGameListInner .TopCustomGameListInnerLeft {
+  right: 999rem !important;
+  opacity: 0 !important;
+  width: 0rem !important;
+}
+
+.ThumbnailBadgesContainer {
+  opacity: 0 !important;
+  width: 0rem !important;
+  height: 0rem !important;
+}
+
+.CustomGameListContainer .CustomGameListHeaderContainer .CustomGameListHeader {
+  background-color: #00000030 !important;
+  border-radius: 1rem !important;
+}
+
+.CustomGameListContainer .RecentlyPlayedCustomGameList .RecentlyPlayedCustomGameTitle {
+  background-color: #00000030 !important;
+  border-radius: 1rem !important; 
+  box-shadow: 0 0 black;
+}
+
+.SchematicThumbnailContainer .SchematicThumbnail {
+  box-shadow: 0 0 black !important;
+}
+
+.SchematicThumbnailContainer .SchematicThumbnail .SchematicDescription {
+  background-color: #12121273 !important;
+  font-size: .65rem !important;
+  border-radius: 1rem !important;
+}
+
+.CustomGameListContainer .CustomGameListHeaderContainer .CustomGameListHeader .CustomGameListSearch .CustomGameListSearchIcon {
+    background-color: #00000000 !important;
+    border: 0px solid #00000000 !important;
+    border-right: none !important;
+    border-radius: 1rem !important;
+    color: #00000000 !important;
+    display: flex;
+    font-size: 0rem !important;
+    justify-content: center;
+    padding: 0 0 !important;
+}
+
+.CustomGameListContainer .CustomGameListHeaderContainer .CustomGameListHeader .CustomGameListSearch .CustomGameListTextInput {
+  border-radius: 1rem !important;
+  border: 1px solid #1d89c7 !important;
+  margin: 0px 5px !important;
+}
+
+.CustomGameListContainer .CustomGameList .CustomGameListInner {
+  background-color: #0e182d82 !important;
+  padding: 1rem !important;
+  border-radius: 1rem !important;
+}
+
+.SchematicImageContainer .SchematicImage {
+  border-radius: 1rem !important;
+}
+
+.CustomGameListContainer .RecentlyPlayedCustomGameList .RecentlyPlayedCustomGame {
+  border: 2px solid #131d2ba2 !important;
+  border-radius: 0.5rem !important;
+  box-shadow: 0 0 black !important;
+}
+
+.SchematicThumbnailContainer .SchematicThumbnail {
+  background-color: #00000000 !important;
+  background-image: linear-gradient(174deg, #0ee4ff, #ffffff) !important;
+  border-radius: 1rem !important;
+}
+
+.SchematicThumbnailContainer .SchematicThumbnail .SchematicThumbnailChipList {
+  margin: 0.2rem !important;
+}
+
+.LikeButton {
+  border-radius: 1rem !important;
+  background-color: #c50a0ab2 !important;
+}
+
+.SchematicThumbnailContainer .SchematicThumbnail .SchematicThumbnailChipList .SchematicThumbnailChip {
+  border-radius: 0.25rem !important;
+}
+
+.SchematicThumbnailContainer .SchematicThumbnail .SchematicName {
+  background-color: #0000004f !important;
+  border-radius: 0.5rem !important;
+}
+
+/* Gamemodes */
+
+.ThumbnailBadgesContainer .ThumbnailBadgeContainer .ThumbnailBadgeMain {
+    background: #00000000 !important;
+    width: 0rem !important;
+    font-size: 0 !important;
+    color: #00000000 !important;
+    box-shadow: 0 0 #00000000 !important;
+}
+
+.GameCardContainer .AvailableGame .AvailableGameInner .AvailableGameTextWrapper {
+    align-items: stretch !important;
+    display: flex !important;
+}
+
+.GameCardContainer .AvailableGame .AvailableGameInner .AvailableGameTextWrapper .AvailableGameText {
+  background-image: linear-gradient(360deg, #000000b3, transparent) !important;
+  background-color: #00000000 !important;
+}

@@ -1,0 +1,5 @@
+/* Edit the Background Image. Get the Image Address by right clicking the image and clicking 'Copy Image Address' */
+
+.HomeBackground{
+  background-image: url('https://iili.io/dMveAil.png') !important;
+}

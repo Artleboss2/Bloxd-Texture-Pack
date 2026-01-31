@@ -1,0 +1,652 @@
+
+
+.TouchComponentsWrapper .JumpCircle {
+  bottom: 40rem !important;
+  pointer-events: auto;
+  left: 10rem !important;
+  opacity: 0.7 !important;
+  width: 10rem !important;
+  height: 10rem !important;
+}
+
+.TouchComponentsWrapper .CrouchCircle {
+  bottom: 40rem !important;
+  pointer-events: auto !important;
+  left: 19rem !important;
+  width: 4.5 !important;
+  height: 4.5 !important;
+  opacity: 0.7 !important;
+  text-shadow: 0 0 5px rgb(255, 255, 255) !important;
+  display: flex !important; /* ensures it takes up full space */
+  align-items: center !important;
+  justify-content: center !important;
+  touch-action: manipulation !important; /* improves touch responsiveness */
+}
+
+
+
+.Chat {
+  background-color: #0000003a !important;
+  border-radius: 1rem !important;
+  max-height: 6.5rem !important;
+  padding: 0.15rem !important;
+}
+
+.Chat .ChatMessages .MessageWrapper {
+  background-color: #00000000 !important;
+  font-size: 0.8rem;
+  color: #ffd51a !important;
+  padding: .12rem .4rem !important;
+  opacity: 0.5;
+}
+
+.MessageWrapper.ChatMsgSelectWrapper {
+  opacity: 1 !important;
+  font-size: .9rem !important;
+  color: rgba(255, 255, 255, 0.918) !important;
+  background-color: #00000036 !important;
+  border-radius: 0.5rem !important;
+  padding: 0.2rem !important;
+}
+
+.Chat .ChatMessages {
+  gap: 0rem !important;
+}
+
+.HotBarContainer .HotBar .HotBarGameItemsContainer .InvenItem.Selected {
+  background-color: #00000000 !important;
+  outline: 0px solid #00000000 !important;
+  background-image: url(https://iili.io/K8U0Ivs.png) !important;
+  background-repeat: no-repeat !important;
+  background-size: contain !important;
+  image-rendering: pixelated !important;
+  outline: 0px solid #00000000 !important;
+  opacity: 1 !important;
+}
+
+.HotBarContainer .HotBar .HotBarGameItemsContainer .InvenItem {
+  background-image: url(https://iili.io/K8UR50b.png);
+  border: 0rem solid #00000000 !important;
+  border-radius: 0 !important;
+  height: calc(4rem - 10px);
+  background-repeat: no-repeat !important;
+  background-size: contain !important;
+  image-rendering: pixelated !important;
+  outline: 0px solid #00000000 !important;
+  width: calc(4rem - 10px);
+  background-color: #00000000;
+  opacity: 1;
+}
+
+.HotBarItem {
+
+  border: 0rem solid #00000000 !important;
+  border-radius: 0 !important;
+  height: calc(3.5rem - 10px);
+  background-repeat: no-repeat !important;
+  background-size: contain !important;
+  image-rendering: pixelated !important;
+  outline: 0px solid #00000000 !important;
+  width: calc(3.5rem - 10px);
+  background-color: #00000000 !important;
+  top: 0.7rem !important;
+  transform: scale(1.2);
+}
+.hotbar .hotbarItem {
+  background-image! url(https://iili.io/K8V3Nmx.png);
+  background-repeat: no-repeat !important;
+}
+
+
+.BottomScreenStatBar {
+ right: 68.5%% !important;
+
+}
+
+.BottomScreenStatBarBackground {
+
+ right: 0% !important;
+}
+
+.BottomScreenStatBarWrapper {
+ right: 68.5% !important;
+
+}
+
+.HealthBar {
+  background-color: #787848!important;
+  background-image: linear-gradient(10deg, #156989 0%, #3cc9ff 74%) !important;
+  box-shadow: inset 0 .4rem 0 0 #ffffff10, inset 0 -.4rem 0 0 #00000017 !important;
+}
+
+/* GAMEMODES */
+
+.GameCardContainer .AvailableGame {
+  border-radius: 0rem !important;
+  background-color: #7979799c !important;
+}
+
+.GameCardContainer .AvailableGame .AvailableGameTextWrapper .AvailableGameTextWrapperBackground {
+  background-color: #7d7d7d9c !important;
+}
+
+.GameCardContainer .AvailableGame .AvailableGameTextWrapper .AvailableGameTextWrapperBackground {
+  border-radius: 0rem !important;
+}
+
+___________________________________________________________________________________________________________________
+
+/* UI */
+
+.SettingsMenu {
+    background-color: #78787847;
+    border: #0000000;
+    border-radius: 0rem !important;
+    box-shadow: 0rem 0rem 0 rgb(255 255 255 / 0%) !important;
+    color: #fff;
+    display: flex;
+    overflow: hidden;
+    pointer-events: all;
+    position: relative;
+    z-index: 2;
+}
+
+.SettingsMenuLeft {
+    background-color: #5f5f5f40 !important;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+    font-size: 1.5rem;
+}
+
+.rc-checkbox-inner {
+  border-radius: 0rem !important;
+}
+
+___________________________________________________________________________________________________________________
+
+/* CONTROLLS */
+
+.ControlsContainer .ControlRow.WarningBorder {
+  background-image: url('https://iili.io/KEH0iap.jpg') !important;
+  border-radius: 0rem !important;
+}
+
+.ControlsContainer .ControlRow {
+  background-image: url('https://iili.io/KEH0iap.jpgg') !important;
+  border-radius: 0rem !important;
+{
+
+.ControlsContainer .ControlRow .ControlRowInner .ControlBindingsContainer .ControlBinding {
+  background-color: #0000004a !important;
+  border-radius: 0rem !important;
+}
+
+.ControlsContainer .ControlRow .ControlRowInner .ControlBindingsContainer .ControlBindingAddInput .InputContainer input {
+    background-color: #00000061 !important;
+    border: 1px solid #0000;
+    border-radius: 0rem !important;
+    box-sizing: border-box;
+    caret-color: #0000;
+    color: #0000;
+    cursor: pointer;
+    font-size: 1rem;
+    height: 100%;
+    left: 0;
+    min-width: 3rem;
+    outline: none;
+    padding: .5rem;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    transition: all .1s;
+    width: 100%;
+    z-index: 1
+}
+
+___________________________________________________________________________________________________________________
+
+/* TEXTURE PACK */
+
+.TexturePackCategory .CustomTexturePackContainer .CustomTextureFolderUpload {
+  background-image: url(https://iili.io/K86Tugs.png) !important;
+  border-radius: 0rem !important;
+}
+
+.TexturePackCategory .CustomTexturePackContainer {
+  border-radius: 0rem !important;
+}
+
+.TexturePackCategory .TexturePack {
+  border-radius: 0rem !important;
+}
+
+___________________________________________________________________________________________________________________
+
+/* FROM HOME PAGE */
+
+.CenteredDiv .CenteredDivLower .CenteredDivLowerLeft .HomeScreenBottomLeft .BottomRightInfoBox {
+  border-radius: 0rem !important;
+}
+
+.CenteredDiv .CenteredDivLower .CenteredDivLowerLeft .HomeScreenBottomLeft .BottomRightInfoBox .BottomRightInfoBoxBackground {
+  background-color: #79797945 !important;
+}
+
+.Header .HeaderLeftContainer .GoogleLoginButton {
+  border-radius: 0rem !important;
+}
+
+.Header .HeaderLeftContainer .PlayerNamePreview {
+  border-radius: 0rem !important;
+  background-color: #79797945 !important;
+}
+
+.SocialBarContainer .SocialBarOuter .SocialBar .SocialBarInner .SocialBarHeader {
+  border-radius: 0rem !important;
+  background-color: #79797945 !important;
+}
+
+.SocialBarContainer .SocialBarOuter .SocialBar .SocialBarInner .SocialBarBody {
+  border-radius: 0rem !important;
+  background-color: #79797945 !important;
+}
+
+.SocialBarContainer .SocialBarOuter .SocialBar .SocialBarInner .SocialBarFooter {
+  border-radius: 0rem !important;
+  background-color: #79797945 !important;
+}
+
+.SocialBarContainer .SocialBarOuter .SocialBar .SocialBarInner .SocialBarFooter .AddFriendBody .AddFriendBodyOverlay {
+    align-items: center;
+    background-color: rgb(51 51 51 / 18%) !important;
+    display: flex;
+    height: 100%;
+    justify-content: center;
+    left: 0;
+    opacity: 1;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    transition: opacity .2s;
+    width: 100%;
+    z-index: 3;
+}
+
+.SocialBarContainer .SocialBarOuter .SocialBar .SocialBarInner {
+  border-radius: 0rem !important;
+}
+
+.Header .HeaderRightContainer .HeaderRight {
+  border-radius: 0rem !important;
+  background-color: #79797945 !important;
+}
+
+.Header .HeaderRightContainer .HeaderRight {
+  border-radius: 0rem !important;
+  background-color: #79797945 !important;
+}
+
+___________________________________________________________________________________________________________________
+
+/* BUTTONS */
+
+.SettingsResumeExitButton {
+    border-radius: 0rem !important;
+}
+
+.ActiveSettingsSectionTitle {
+    background-color: #00000000 !important;
+    border-bottom: 0px solid #00000000 !important;
+    border-top: 0px solid #00000000!important;
+    color: #ffffff !important;
+}
+
+.ActiveSidebarMenuTitleTitle {
+    background-color: #00000000 !important;
+    border-bottom: 1px solid #00000000 !important;
+    border-top: 1px solid #00000000 !important;
+    color: #ffffff !important;
+}
+
+.SidebarMenu {
+    align-items: stretch;
+    background-color: #59595947 !important;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.SettingsSectionTitle {
+    border-bottom: 1px solid #00000000 !important;
+    border-top: 1px solid #00000000 !important;
+}
+___________________________________________________________________________________________________________________
+
+/* SLIDERS */
+
+.rangeslider, .rangeslider .rangeslider__fill {
+  border-radius: 0rem !important;
+  margin: 25px 0px !important;
+  box-shadow: inset 0 1px 1px rgb(0 0 0 / 0%) !important;
+}
+
+.rangeslider-horizontal {
+  height: 25px !important;
+}
+
+.rangeslider {
+  background-color: #2c2c2c !important;
+}
+
+.rangeslider-horizontal .rangeslider__fill {
+  background-color: #2c2c2c !important;
+}
+
+.rangeslider-horizontal .rangeslider__handle {
+  border: 0px solid #00000000 !important;
+  border-radius: 0rem !important;
+  background-image: url('https://iili.io/KEHzThB.jpg') !important;
+}
+
+___________________________________________________________________________________________________________________
+
+/* EXTRA PANELS */
+
+.SelectLobbyOuterWrapper {
+    background-color: #5b5b5b4d;
+    border: 1px solid var(--near-black);
+    border-radius: 0rem !important;
+    box-shadow: .2rem .25rem 0 rgba(0, 0, 0, .32);
+    overflow: hidden;
+}
+
+.SelectLobbyOuterWrapper .RecentlyPlayedLobbiesWrapper {
+  background-image: url('https://iili.io/2PfQqTx.png') !important;
+}
+
+.BloxdDropdownControl {
+  background-image: url('https://iili.io/2PfQqTx.png') !important;
+  border-radius: 0rem !important;
+}
+
+.BloxdDropdownMenu {
+    background-color: #3c4b68;
+    background-image: url(https://iili.io/2PfQqTx.png) !important;
+    border-color: #0f0f0f;
+    border-radius: 0rem !important;
+    color: #fff;
+    font-size: 1em;
+    max-height: 20rem;
+}
+
+.Dropdown-control {
+  border-radius: 0rem !important;
+}
+
+.NewButton {
+  border-radius: 0rem !important;
+}
+
+.Dropdown-control {
+  border-radius: 0rem !important;
+}
+
+.Dropdown-option {
+    color: #9d9d9d !important;
+    overflow-x: hidden;
+    text-overflow: ellipsis;
+}
+
+.Dropdown-option.is-selected {
+    background-color: #00000000 !important;
+    color: #ffffff !important;
+}
+
+.CenteredDiv .CenteredDivUpper .HomePagePartyBar {
+  background-color: #4b4b4b54 !important;
+  border-radius: 0rem !important;
+}
+  
+.JoinPartyAction .JoinPartyHashtag {
+  border-radius: 0rem !important;
+  border-bottom-left-radius: 0rem !important;
+  border-top-left-radius: 0rem !important;
+  background-color: #2f2f2fd1 !important;
+}
+
+.ProfilePreview {
+  border-radius: 0rem !important;
+}
+
+.CenteredDiv .CenteredDivUpper .HomePagePartyBar .HomePagePartyInformation .HomePagePartyInformationMembersOuter .HomePagePartyInformationMembers .HomePagePartyInformationMembersInner .PartyLeader .ProfilePreviewLeft img {
+  border-radius: 0rem !important;
+}
+
+
+___________________________________________________________________________________________________________________
+
+
+.ShopBody {
+    background-color: rgb(53 53 53 / 58%) !important;
+    border: 1px solid var(--near-black);
+    border-radius: 0rem !important;
+    box-shadow: .2rem .25rem 0 rgba(0, 0, 0, .32);
+    display: flex;
+    flex-direction: row;
+    font-size: 1.2rem;
+    overflow: hidden;
+}
+
+.ShopSidebarMenu {
+    align-items: stretch;
+    background-color: rgb(181 181 181 / 11%) !important;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 0;
+    flex-shrink: 0;
+    font-size: 1.3rem;
+}
+
+.SelectedShopItem {
+    border: 1px solid #ffffff !important;
+}
+
+.ShopItemHeaderDiv {
+    background-color: #29323b9c !important;
+    border-radius: 0rem !important;
+    text-align: center;
+}
+
+.SelectedItemViewer {
+    background-color: #5b5b5b45 !important;
+    border: 1px solid var(--near-black);
+    border-radius: 0rem !important;
+    width: 20rem;
+}
+
+.ShopItem {
+  border-radius: 0rem !important;
+  background-color: #4d4d4d73 !important;
+}
+
+.SelectedItemHeaderDiv {
+  border-radius: 0rem !important;
+  background-color: #393939 !important;
+}
+
+___________________________________________________________________________________________________________________
+
+/* CHAR CUSTOMIZATION */
+
+.CharCustomisation {
+    background-color: #2525255e !important;
+    border: 1px solid var(--near-black);
+    border-radius: 0rem !important;
+    box-shadow: .2rem .25rem 0 rgba(0, 0, 0, .32);
+    color: #fff;
+    display: flex;
+    font-size: 1.5rem;
+}
+
+.CharCustomPartWrapper {
+  background-image: url('https://iili.io/2PfQqTx.png') !important;
+  border-radius: 0rem !important;
+}
+
+.SelectedCharCustomPartWrapper {
+  background-image: url('https://iili.io/2PfQqTx.png') !important;
+  border-radius: 0rem !important;
+}
+  
+
+
+___________________________________________________________________________________________________________________
+
+/* HOME BACKGROUND */
+
+.HomeBackground {
+  background-image: url('https://iili.io/KEHzThB.jpg') !important;
+}
+
+___________________________________________________________________________________________________________________
+
+___________________________________________________________________________________________________________________
+
+/ * LOBBY LEADERBOARD MENU */
+
+.LobbyLeaderboardMenu .LobbyLeaderboardContainer .LobbyLeaderboard {
+    border-radius: 0rem !important;
+    display: flex;
+    max-height: 80vh;
+    max-height: 80dvh;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+.LobbyLeaderboardMenu .LobbyLeaderboardContainer .LobbyLeaderboard table {
+    border-spacing: 0
+}
+
+.LobbyLeaderboardMenu .LobbyLeaderboardContainer .LobbyLeaderboard table thead th {
+    background-color: rgb(54 54 54 / 75%);
+    font-size: 1em;
+    padding: .2em 1em !important;
+}
+
+.LobbyLeaderboardMenu .LobbyLeaderboardContainer .LobbyLeaderboard table tbody tr:nth-of-type(2n) td .LobbyLeaderboardValueBg {
+    opacity: .6
+}
+
+.LobbyLeaderboardMenu .LobbyLeaderboardContainer .LobbyLeaderboard table tbody tr td {
+    font-size: 1.2em;
+    padding: .2em 1em;
+    position: relative
+}
+
+.LobbyLeaderboardMenu .LobbyLeaderboardContainer .LobbyLeaderboard table tbody tr td img {
+    -ms-interpolation-mode: nearest-neighbor;
+    height: 1.2em;
+    image-rendering: optimizeSpeed;
+    image-rendering: -o-crisp-edges;
+    image-rendering: pixelated;
+    width: 1.2em
+}
+
+.LobbyLeaderboardMenu .LobbyLeaderboardContainer .LobbyLeaderboard table tbody tr td:nth-of-type(2n) .LobbyLeaderboardValueBg {
+    background-color: rgb(46 46 46 / 71%)
+}
+
+.LobbyLeaderboardMenu .LobbyLeaderboardContainer .LobbyLeaderboard table tbody tr td.LobbyLeaderboardValueHighlighted .LobbyLeaderboardValueText {
+    color: #fcd373 !important;
+}
+
+.LobbyLeaderboardMenu .LobbyLeaderboardContainer .LobbyLeaderboard table tbody tr td .LobbyLeaderboardValueText {
+    position: relative;
+    text-align: center;
+    z-index: 2
+}
+
+.LobbyLeaderboardMenu .LobbyLeaderboardContainer .LobbyLeaderboard table tbody tr td .LobbyLeaderboardValueBg {
+    background-color: #464646db !important;
+    height: 100%;
+    left: 0;
+    opacity: .8;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: 1
+}
+
+
+.HomePageBackgroundContainer {
+  filter: opacity(0) !important;
+}
+
+.HomePageInner {
+  background-image: url('https://iili.io/KRJCBcJ.jpg') !important;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+  background-position: center !important;
+}___________________________________________________________________________________________________________________
+
+.TitleContainer {
+  background-image: url(https://iili.io/K84b80u.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.LogoContainer {
+  opacity: 0;
+}
+
+.Title {
+  opacity: 0;
+}
+
+.TexturePackCategory .CustomTexturePackContainer .CustomTextureFolderUpload .CustomTextureFolderUploadIcon.Active {
+    color: #ffffff !important;
+    opacity: 0;
+    height: 4rem !important;
+    width: 4rem !important;
+    background-size: contain !important;
+}
+
+.TexturePackCategory .CustomTexturePackContainer .CustomTextureFolderUpload .CustomTextureFolderUploadIcon {
+    font-size: 999rem !important;
+    background-image: url(https://iili.io/K86Tugs.png) !important;
+    text-shadow: 0 0 0 #ffffff00;
+    opacity: 1;
+} 
+
+.HomePageBackgroundContainer {
+  filter: opacity(0) !important;
+}
+
+.HomePageInner {
+  background-image: url(https://iili.io/K86Tugs.png) !important;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+  background-position: center !important;
+}
+
+.AuraBarWrapper .AuraBar {
+  background-color: #78787847 !important;
+  border: 2px solid #484848 !important;
+  height: 60% !important;
+  border-radius: 0.5rem !important;
+}
+
+.AuraBarWrapper .AuraBar .AuraBarBackground {
+  background: linear-gradient(58deg, #565656, #676767 125%) !important;
+}
+
+.AuraBarWrapper .AuraBarLabel {
+  font-size: 0.79rem !important;
+  top: .45rem !important;
+}
+
+.AuraBarWrapper {
+  width: 41.5m !important;
+  top: .65rem !important;
+}

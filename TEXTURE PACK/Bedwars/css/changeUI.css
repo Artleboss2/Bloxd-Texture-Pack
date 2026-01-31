@@ -1,0 +1,195 @@
+/* Settings changes */
+
+.SettingsMenu {
+  background-color: #233e494f !important;
+  border: 3px solid #00d0ff !important;
+  border-radius: 1rem;
+  backdrop-filter: blur(8px);
+  box-shadow: 0 0 20px rgb(0 173 255), inset 0 0 5px rgba(22, 201, 255, 0.9) !important;
+}
+
+.SettingsMenuLeft {
+  background-color: #0095ff21;
+}
+
+.ActiveSettingsSectionTitle{
+  background-color: #22e5ff5c !important;
+  border: 0px solid #ffffff00 !important;
+  color: #00f1ff !important;
+}
+
+.SettingsSectionTitle:hover{
+  background-color: #00b8ff5c;
+  border-bottom: 0px solid #ffffff00;
+  border-top: 0px solid #ffffff00;
+  color: #00f1ff;
+}
+
+.ShopBody {
+  background-color: rgba(18, 101, 134, 0.363);
+  border: 1px solid #00dcff;
+  border-radius: 2rem !important;
+}
+
+.Menu .MenuSideBar {
+  background-color: rgb(90 208 255 / 11%) !important;
+  border: 0px solid #00000000 !important;
+}
+
+.Menu .MenuBody {
+  background-color: #6eccf10e !important;
+}
+
+.ShopItemHeaderDiv {
+  background-color: rgb(63 187 237 / 19%) !important;
+  border: 2px solid #00dcff !important;
+}
+
+/* Shop Item */
+
+.ShopItem.ShopItemNoInputCanBuy {
+  background-color: rgba(19, 167, 226, 0.555) !important;
+  border-radius: 1rem !important;
+  border: 1px solid #04e8ff !important;
+  filter: brightness(1) !important;
+}
+
+.ShopItem {
+  border: 1px solid #00dcff !important;
+  background-color: rgb(63 187 237 / 19%) !important;
+  border-radius: 0rem !important;
+  filter: brightness(1);
+}
+
+.ShopItem.ShopItemNoInput {
+  background-color: rgba(63, 76, 82, 0.19) !important;
+  border-radius: 0rem !important;
+  border: 1px solid #242e308a;
+  filter: brightness(0.5);
+}
+
+
+.SelectedShopItem {
+  background-color: rgba(63, 188, 237, 0.226) !important;
+  filter: brightness(1) !important;
+  border: 0px solid #00dcff !important;
+}
+
+.SidebarMenu .SidebarMenuTitle.ActiveSidebarMenuTitle {
+  background-color: #00b8ff42 !important;
+  color: #14f2ff !important;
+  border :0px solid #00000000 !important;
+}
+
+.SidebarMenuTitle {
+   background-color: #0077af45;
+   border-bottom:0px solid #00000000 !important;
+   border-top:0px solid #00000000 !important;
+   color:#ffffff;
+}
+
+.ShopItemHeaderDiv {
+  background-color: #22c2ff;
+}
+
+.ActiveSettingsSectionTitle {
+  border-bottom: 1px solid #303a5900;
+  border-top: 1px solid #303a5900;
+}
+
+.SelectedItemHeaderDiv {
+  background-color: #00b8ff;
+}
+
+.SelectedItemViewer {
+  background-color: #00b8ff33;
+}
+
+.InventoryWrapper .Inventory .InvenBody .InvenLeftSide {
+  background-color: #00c4ff36 !important;
+  border: 1px solid #28f1ffef !important;
+  box-shadow: 0rem 0rem 0 #00000000 !important;
+  border-radius: 2rem !important;
+}
+
+.InventoryWrapper .Inventory .InvenBody .InvenBodyRight {
+  background-color: #00c4ff36 !important;
+  border: 1px solid #28f1ffef !important;
+  box-shadow: 0rem 0rem 0 #00000000 !important;
+  border-radius: 2rem !important;
+}
+
+.CharCustomisation {
+  background-color: #00a1ff2e;
+  border: 3px solid #00e7ff;
+  border-radius: 1.35rem;
+  backdrop-filter: blur(8px);
+  box-shadow: .2rem .25rem 0 rgb(0 184 255 / 35%);
+}
+
+.CharCustomisation {
+  background-color: #00a9db52;
+}
+
+.ControlsContainer .ControlRow {
+  background-image: url('https://iili.io/2rZorXe.png') !important;
+}
+
+.AccountContainer .AccountPreviewContainer .AccountPreview .AccountPreviewBackground {
+  background-color: #177bab !important;
+}
+
+.Header .HeaderRightContainer .HeaderRight .HeaderRightBackground {
+  background-color: #177bab !important;
+}
+
+.HomeScreenBottomRight .BottomRightInfoBox .BottomRightInfoBoxBackground {
+  background-color: #177bab !important;
+}
+
+.BloxdDropdownControl {
+  background-image: url('https://iili.io/2rZorXe.png') !important;
+}
+
+.TexturePackCategory .CustomTexturePackContainer {
+    border: 1px solid #00ceff !important;
+    border-radius: .5rem;
+    box-sizing: border-box;
+    margin-top: 2rem;
+    overflow: hidden;
+    width: 100%
+}
+
+.TexturePackCategory .CustomTexturePackContainer .CustomTextureWarning {
+    background-color: #00ceff !important;
+    color: #000;
+    font-size: 1rem;
+    padding: .4rem .5rem;
+    text-shadow: 0 0 0 #000
+}
+
+.BlueButton {
+    --buttonNormalColour: #12b6db !important;
+    --buttonHoverColour: #17cbf3;
+    --buttonTopColour: #8200ffc4;
+    --buttonBottomColour: #119cbb;
+}
+
+.BloxdDropdownMenu {
+    background-color: #3c4b68;
+    background-image: url('https://iili.io/2rZorXe.png') !important;
+    border-color: #0f0f0f;
+    border-radius: 0rem !important;
+    color: #fff;
+    font-size: 1em;
+    max-height: 20rem;
+}
+
+.SettingsMenuRightInner .SettingBox {
+    background-color: #1a455540 !important;
+    border: 1px solid #2ae1ff !important;
+    border-radius: .5rem !important;
+    opacity: 1 !important;
+    padding: 1rem !important;
+    transition: all .2s !important;
+}

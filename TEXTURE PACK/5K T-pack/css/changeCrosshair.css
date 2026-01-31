@@ -1,0 +1,7 @@
+.CrossHair {
+  background-image: url('https://i.imgur.com/DDYIHyW.png') !important;
+  font-size: 0rem;
+  height: 22px;
+  width: 22px;
+  opacity: 0.6;
+}
